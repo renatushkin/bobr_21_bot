@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.crt
+*.log
+
+test_*.py
+bot_backup.py
+bot_before_menu.py
